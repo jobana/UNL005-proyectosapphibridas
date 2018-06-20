@@ -24,3 +24,7 @@ Ingresa la estación de destino.
 5. La App informa las Rutas recomendadas según criterios de evaluación (Ruta Rápida o Ruta Cómoda)
 6. Sí el PCD selecciona una ruta, los demás pasajeros que han seleccionado esa misma ruta son alertados para dar la mejor experiencia a éste pasajero
 7. Cuando el Pasajero ingresa al bus, marca el inicio de su recorrido
+
+### ENLACES
+http://movilixa.com/files/Formato_MoviliXa_API-IOS.pdf
+http://movilixa.com/files/Formato_MoviliXa_API-Android.pdf
